@@ -70,7 +70,7 @@ hr.star-primary:after {
 header {
   text-align: center;
   background: #18BC9C;
-  color: white;
+  color: #2C3E50;
 }
 header .container {
   padding-top: 100px;
@@ -197,6 +197,10 @@ section.success {
     padding-top: 75px;
   }
 }
+section portfolio{
+    background-color: #2C3E50;
+}
+
 #portfolio .portfolio-item {
   margin: 0 0 15px;
   right: 0;
@@ -453,6 +457,7 @@ fieldset[disabled] .btn-success.active {
   min-height: 100%;
   padding: 100px 0;
   text-align: center;
+  background-color: aliceblue;
 }
 .portfolio-modal .modal-content h2 {
   margin: 0;
